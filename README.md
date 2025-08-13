@@ -1,6 +1,6 @@
-# My App - Next.js + Sanity Blog
+# Next.js + Sanity Demo
 
-A simple blog application built with Next.js 15 and Sanity CMS.
+A simple demo application built with Next.js 15 and Sanity CMS.
 
 ## Installation
 
