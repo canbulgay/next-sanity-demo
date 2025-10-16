@@ -6,8 +6,8 @@ A simple demo application built with Next.js 15 and Sanity CMS.
 
 1. Clone the repository
 ```bash
-git clone <your-repo-url>
-cd my-app
+git clone [<your-repo-url>](https://github.com/canbulgay/next-sanity-demo.git)
+cd next-sanity-demo
 ```
 
 2. Install dependencies
@@ -49,8 +49,6 @@ src/
 ```
 
 ## Dependencies
-
-### Main Dependencies
 - **Next.js 15.4.6** - React framework
 - **React 19.1.0** - UI library
 - **next-sanity 10.0.10** - Sanity integration for Next.js
@@ -59,32 +57,6 @@ src/
 - **groq 4.3.0** - Sanity query language
 - **Tailwind CSS 4** - Styling framework
 
-### Dev Dependencies
-- **TypeScript 5** - Type safety
-- **ESLint 9** - Code linting
-- **@sanity/types 4.3.0** - Sanity TypeScript types
-
-## Features
-
-- Server-side rendered blog posts
-- Sanity CMS integration
-- Responsive image handling
-- Clean, modern UI with Tailwind CSS
-- TypeScript support
-- ESLint configuration
-
-## Scripts
-
-- `npm run dev` - Start development server with Turbopack
-- `npm run build` - Build for production
-- `npm start` - Start production server
-- `npm run lint` - Run ESLint
-
 ## Sanity Studio
 
 Access the Sanity Studio at [http://localhost:3000/studio](http://localhost:3000/studio) to manage your content.
-
-### Post Schema
-- **Title** - Post title
-- **Slug** - URL slug (auto-generated from title)
-- **Cover Image** - Featured image for the post
