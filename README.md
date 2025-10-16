@@ -6,7 +6,7 @@ A simple demo application built with Next.js 15 and Sanity CMS.
 
 1. Clone the repository
 ```bash
-git clone [<your-repo-url>](https://github.com/canbulgay/next-sanity-demo.git)
+git clone https://github.com/canbulgay/next-sanity-demo.git
 cd next-sanity-demo
 ```
 
